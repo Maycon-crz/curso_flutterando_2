@@ -10,3 +10,7 @@ Obs: Devido a atualizações do flutter tive dificuldades ao seguir as aulas por
 
 - [Plataforma que utilizo para codar: FlutLab.io](https://flutlab.io)
 - [Curso flutterando em questão no YouTube:](https://www.youtube.com/watch?v=XeUiJJN0vsE&list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB&ab_channel=Flutterando)
+
+<img src='cfp2_1.PNG'>
+<img src='cfp2_2.PNG'>
+<img src='cfp2_3.PNG'>
